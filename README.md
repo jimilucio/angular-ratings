@@ -1,7 +1,14 @@
-# Angular Ratings
+# Angular-rate
+Based on Angular Ratings project, help you to install package directlly from bower.
 
-A diretive to help out with rating systems on your Angular powered website.  This directive automatically notifies
-the server of the rating change, you just have to tell it a few things and follow a pattern.
+Project url: https://github.com/thomporter/angular-ratings
+
+
+# install
+```
+bower install angular-rate
+```
+
 
 
 ## Usage
