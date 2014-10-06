@@ -1,0 +1,24 @@
+{
+  "name": "ng-ratings",
+  "version": "0.1.0",
+  "authors": [
+    "Luciano Murruni <luciano.murruni@gmail.com>"
+  ],
+  "description": "A diretive to help out with rating systems on your Angular powered website.",
+  "main": "angular-ratings.js",
+  "keywords": [
+    "angular",
+    "rating",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "http://sviluppando.net/ng-ratings",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
