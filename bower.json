@@ -11,6 +11,10 @@
     "rating",
     "component"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomporter/angular-ratings.git"
+  },
   "license": "MIT",
   "homepage": "http://sviluppando.net/ng-ratings",
   "private": true,
